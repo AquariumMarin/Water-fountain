@@ -1,17 +1,6 @@
 //////////////// FILE HEADER (INCLUDE IN EVERY FILE) //////////////////////////
 //
 // Title: Fountain.java
-// Course: CS 300 Spring 2022
-//
-// Author: Marin Suzuki
-// Email: msuzuki9@wisc.edu
-// Lecturer: Hobbes LeGault
-//
-///////////////////////// ALWAYS CREDIT OUTSIDE HELP //////////////////////////
-//
-// Persons: None
-// Online Sources: None
-//
 ///////////////////////////////////////////////////////////////////////////////
 
 import java.util.Random;
